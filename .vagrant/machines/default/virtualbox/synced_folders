@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www":{"guestpath":"/var/www","hostpath":"/home/malak/master/archi/simpleScalar/sites","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/malak/master/archi/simpleScalar","disabled":false,"__vagrantfile":true}}}
