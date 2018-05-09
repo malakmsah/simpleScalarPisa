@@ -14,7 +14,7 @@ https://git-scm.com/downloads
 
 - Set up steps:
 1. Install pre-requistes.
-2. Open terminal (cmd of windows)
+2. Open terminal (or cmd in windows)
 3. Create directory
 `mkdir archi`
 4. Navigate to this directory
