@@ -22,7 +22,7 @@ cd archi
 5. clone this repository
 6. go to the recpository folder
 7. run in terminal:
-vagrant up
+. vagrant up
 8. run terminal 
 vagrant ssh
 -- Now you are inside the virtual machine.
