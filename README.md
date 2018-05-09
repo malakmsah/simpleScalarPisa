@@ -16,19 +16,19 @@ https://git-scm.com/downloads
 1. Install pre-requistes.
 2. Open terminal (cmd of windows)
 3. Create directory
-mkdir archi
+`mkdir archi`
 4. Go to this directory
-cd archi
+`cd archi`
 5. clone this repository
 6. go to the recpository folder
 7. run in terminal:
-. vagrant up
+`vagrant up`
 8. run terminal 
-vagrant ssh
+`vagrant ssh`
 -- Now you are inside the virtual machine.
 9. go to below directory to find simpleScalar installation.
-cd /var/www
+`cd /var/www`
 
 
 * Note:
-All the files under /var/www inside the vagrant machine, you will find them in a folder called 'sites' outside the machine.
+All the files under `/var/www` inside the vagrant machine, you will find them in a folder called `sites` outside the machine.
